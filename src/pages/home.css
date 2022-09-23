@@ -1,0 +1,14 @@
+.myName {
+    display: flex;
+    justify-content: center;
+}
+
+.myTag {
+    display: flex;
+    justify-content: center;
+}
+
+.myDescription {
+    display: flex;
+    justify-content: center;
+}
